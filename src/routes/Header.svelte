@@ -32,7 +32,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://www.a11yproject.com/">
+		<a href="https://www.a11yproject.com/" tabindex="1">
 			<img src={a11y} alt="ally"/>
 		</a>
 	</div>

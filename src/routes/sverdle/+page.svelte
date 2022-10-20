@@ -97,6 +97,7 @@
 
 					<input
 						name="guess"
+						autofocus
 						disabled={!current}
 						readonly
 						class:exact={answer === 'x'}

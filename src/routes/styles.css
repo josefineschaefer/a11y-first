@@ -16,6 +16,8 @@
 
 body {
 	min-height: 100vh;
+	max-width: 100%;
+    overflow-x: hidden;
 	margin: 0;
 	background-color: var(--color-bg);
 	background-size: 100vw 100vh;}
@@ -40,12 +42,7 @@ a:hover {
 }
 
 h1 {
-	font-size: 2rem;
 	text-align: center;
-}
-
-h2 {
-	font-size: 1rem;
 }
 
 pre {
