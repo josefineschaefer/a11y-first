@@ -6,7 +6,7 @@
 	--font-mono: 'Fira Mono', monospace;
 	--color-bg: #2a4b82;
 	--color-theme-1: #ff3e00;
-	--color-theme-2: #40b3ff;
+	--color-theme-2: #93dcde;
 	--color-text: #f8b5a7;
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
@@ -41,7 +41,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-h1 {
+h2 {
 	text-align: center;
 }
 
@@ -76,7 +76,7 @@ button:focus:not(:focus-visible) {
 }
 
 @media (min-width: 720px) {
-	h1 {
+	h2 {
 		font-size: 2.4rem;
 	}
 }

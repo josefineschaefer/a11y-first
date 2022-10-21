@@ -33,7 +33,7 @@
 
 	<div class="corner">
 		<a href="https://www.a11yproject.com/" tabindex="1">
-			<img src={a11y} alt="ally"/>
+			<img src={a11y} alt="photo of accessibility icon"/>
 		</a>
 	</div>
 </header>
@@ -66,7 +66,7 @@
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: #93dcde;
+		--background: var(--color-theme-2);
 	}
 
 	svg {
@@ -121,6 +121,7 @@
 		letter-spacing: 0.1em;
 		text-decoration: none;
 		transition: color 0.2s linear;
+		outline: none; 
 	}
 
 	a:hover {
