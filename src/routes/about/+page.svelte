@@ -28,10 +28,17 @@
 As stated in the quote, it is also a basic human right, as defined by the United Nations. According to the world report on disability by the world health organization it is estimated that over 15% of the global population experience some form of disability - and that's over 1 billion people. 
 
 </p>
-
 	<img src={disabilities} alt="overview table of different kinds of disabilities and impairments" />
 	<figcaption>
 		Fig. 1 Table of different kinds of disabilities, including permant, temporary and situational
 		impairments
 	</figcaption>
 </div>
+
+<style>
+
+	img{
+		width: 100%;
+  		height: auto;
+	}
+</style>
