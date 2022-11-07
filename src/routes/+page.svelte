@@ -8,7 +8,7 @@
 </svelte:head>
 
 <section>
-	<img src={desktop_illustration} class="desktop" />
+	<img src={desktop_illustration} class="desktop"/>
 	<h2>Svelte - a shortcut to A11y?</h2>
 
 	<h1>Web Accessibility benefits ALL of us</h1>
